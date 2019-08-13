@@ -15,3 +15,7 @@ fi
 
 # To curl a json file
 # curl -X POST -H 'Content-type: application/json' -d @text.json https://hooks.slack.com/services/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
+
+# More info in formatting here: https://api.slack.com/docs/message-formatting
+
+
